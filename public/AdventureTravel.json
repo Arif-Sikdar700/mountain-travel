@@ -1,0 +1,169 @@
+[
+    {
+      "id": 1,
+      "adventureTitle": "Summit the Majestic Rockies",
+      "image": "https://i.ibb.co.com/vqbYMdY/pexels-michalrobak-29482869.jpg",
+      "categoryName": "Mountain Climbing",
+      "shortDescription": "Experience the thrill of scaling the Rockies with expert guides.",
+      "adventureCost": 350,
+      "bookingAvailability": true,
+      "location": "Canadian Rockies, Alberta",
+      "duration": "5 days",
+      "adventureLevel": "Challenging",
+      "includedItems": [
+        "Mountain gear",
+        "Meals and snacks",
+        "Safety equipment",
+        "Certified guide"
+      ],
+      "ecoFriendlyFeatures": [
+        "Leave No Trace practices",
+        "Eco-friendly meals",
+        "Reusable water bottles provided"
+      ],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+        "Prior climbing experience recommended",
+        "Bring thermal wear and sturdy boots"
+      ]
+    },
+    {
+      "id": 2,
+      "adventureTitle": "Trekking the Annapurna Circuit",
+      "image": "https://i.ibb.co.com/x6m3kTP/pexels-marek-piwnicki-3907296-29450983-1.jpg",
+      "categoryName": "Trekking",
+      "shortDescription": "Embark on a breathtaking journey through Nepal's Annapurna range.",
+      "adventureCost": 700,
+      "bookingAvailability": true,
+      "location": "Annapurna, Nepal",
+      "duration": "12 days",
+      "adventureLevel": "Moderate",
+      "includedItems": [
+        "Lodging",
+        "Meals",
+        "Permits",
+        "Experienced local guide"
+      ],
+      "ecoFriendlyFeatures": [
+        "Locally sourced meals",
+        "Sustainable accommodations",
+        "Community support programs"
+      ],
+      "maxGroupSize": 12,
+      "specialInstructions": [
+        "Pack light but include warm layers",
+        "Acclimatization required"
+      ]
+    },
+    {
+      "id": 3,
+      "adventureTitle": "Glacier Hiking Adventure",
+      "image": "https://i.ibb.co.com/zVngYzF/pexels-esmerald-29476156.jpg",
+      "categoryName": "Hiking",
+      "shortDescription": "Traverse the awe-inspiring landscapes of ice and snow.",
+      "adventureCost": 150,
+      "bookingAvailability": true,
+      "location": "Vatnajökull, Iceland",
+      "duration": "1 day",
+      "adventureLevel": "Easy",
+      "includedItems": [
+        "Crampons",
+        "Ice axes",
+        "Guide services"
+      ],
+      "ecoFriendlyFeatures": [
+        "Carbon-neutral operations",
+        "Local guides",
+        "Eco-friendly transport options"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+        "Wear waterproof clothing",
+        "Bring sunglasses and sunscreen"
+      ]
+    },
+    {
+      "id": 4,
+      "adventureTitle": "Rainforest Canopy Climbing",
+      "image": "https://i.ibb.co.com/x6m3kTP/pexels-marek-piwnicki-3907296-29450983-1.jpg",
+      "categoryName": "Climbing",
+      "shortDescription": "Reach new heights in the lush rainforest canopy.",
+      "adventureCost": 200,
+      "bookingAvailability": false,
+      "location": "Monteverde, Costa Rica",
+      "duration": "3 hours",
+      "adventureLevel": "Moderate",
+      "includedItems": [
+        "Climbing harness",
+        "Helmet",
+        "Snacks"
+      ],
+      "ecoFriendlyFeatures": [
+        "Zero plastic policy",
+        "Renewable energy-powered basecamp",
+        "Support for reforestation programs"
+      ],
+      "maxGroupSize": 6,
+      "specialInstructions": [
+        "Wear lightweight, breathable clothing",
+        "Bring insect repellent"
+      ]
+    },
+    {
+      "id": 5,
+      "adventureTitle": "Mountain Biking Expedition",
+      "image": "https://i.ibb.co.com/PYhpVnn/pexels-marek-piwnicki-3907296-29451002.jpg",
+      "categoryName": "Biking",
+      "shortDescription": "Conquer rugged trails with adrenaline-pumping mountain biking.",
+      "adventureCost": 250,
+      "bookingAvailability": true,
+      "location": "Moab, Utah",
+      "duration": "2 days",
+      "adventureLevel": "Challenging",
+      "includedItems": [
+        "High-performance bike",
+        "Helmet",
+        "Meals",
+        "Trail guide"
+      ],
+      "ecoFriendlyFeatures": [
+        "Minimal-impact trails",
+        "Bike gear recycling program",
+        "Solar-powered campsites"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+        "Prior biking experience required",
+        "Carry extra water"
+      ]
+    },
+    {
+      "id": 6,
+      "adventureTitle": "Highland Wildlife Adventure",
+      "image": "  https://i.ibb.co.com/tcH9p8H/pexels-marek-piwnicki-3907296-29450976.jpg",
+      "categoryName": "Wildlife",
+      "shortDescription": "Discover the rich biodiversity of the Scottish Highlands.",
+      "adventureCost": 120,
+      "bookingAvailability": true,
+      "location": "Scottish Highlands, Scotland",
+      "duration": "1 day",
+      "adventureLevel": "Easy",
+      "includedItems": [
+        "Binoculars",
+        "Lunch",
+        "Expert wildlife guide"
+      ],
+      "ecoFriendlyFeatures": [
+        "Wildlife conservation funding",
+        "Eco-friendly transportation",
+        "Organic meals"
+      ],
+      "maxGroupSize": 15,
+      "specialInstructions": [
+        "Wear comfortable walking shoes",
+        "Carry rain gear"
+      ]
+    }
+  ]
+
+
